@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+
+}
+
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+
+
+}
+
+p {
+    margin: 40px 130px;
+}
+
+
+.banner-section {
+    background-image: url(./my-images/donation_money.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 90px 170px;
+    text-align: center;
+
+
+}
+
+.donate_link_buttun {
+    color: white;
+
+    background-color: #FF5959;
+    text-decoration: none;
+    border-radius: 5px;
+    width: 160px;
+    height: 56px;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    padding: 14px 18px;
+
+}
+
+.banner-div-text {
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+}
